@@ -1,4 +1,4 @@
-## Question 1 (Q1)
+## Q1
 **Q:** Suppose we have `N` items. We want to divide these `N` between three groups. Two groups should get the same amount of items. 
 How can we divide the items so that the difference between the number of items dedicated to each group is minimal?
 
