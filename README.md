@@ -33,3 +33,10 @@ nt --> ... = (1+r/n)^(nt).P0 + [(1+r/n)^(nt) + (1+r/n)^(nt - 1) + ... + (1+r/n)^
 
 So, we should write a code that calculates the final coefficients of <code>P0</code> and <code>P</code> to calculate the final value!
 </details>
+
+## Question 3: Mean Dwell Time 
+<details>
+<summary><strong>Q:</strong> Suppose we have a sequence of different states (shown by numbers). Calculate the mean time that the system stays in each specific state. </summary>
+<be>
+
+</details>
